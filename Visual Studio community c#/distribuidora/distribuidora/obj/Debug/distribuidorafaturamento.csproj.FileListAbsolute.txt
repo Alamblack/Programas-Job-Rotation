@@ -1,0 +1,8 @@
+C:\Users\alams\Desktop\distribuidora\distribuidora\bin\Debug\distribuidora.exe.config
+C:\Users\alams\Desktop\distribuidora\distribuidora\bin\Debug\distribuidora.exe
+C:\Users\alams\Desktop\distribuidora\distribuidora\bin\Debug\distribuidora.pdb
+C:\Users\alams\Desktop\distribuidora\distribuidora\obj\Debug\distribuidorafaturamento.csproj.AssemblyReference.cache
+C:\Users\alams\Desktop\distribuidora\distribuidora\obj\Debug\distribuidorafaturamento.csproj.SuggestedBindingRedirects.cache
+C:\Users\alams\Desktop\distribuidora\distribuidora\obj\Debug\distribuidorafaturamento.csproj.CoreCompileInputs.cache
+C:\Users\alams\Desktop\distribuidora\distribuidora\obj\Debug\distribuidora.exe
+C:\Users\alams\Desktop\distribuidora\distribuidora\obj\Debug\distribuidora.pdb
